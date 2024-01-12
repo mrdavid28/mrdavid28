@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning Elm, Yasm assembler, Javascript.
 - 📫 How to reach me: mail: dawidplotczyk12@gmail.com, linkedin: https://www.linkedin.com/in/dawid-p%C5%82otczyk-39b8a6227/ , twitter: https://twitter.com/dawipd_in_engl 
+![Zrzut ekranu z 2024-01-12 14-05-33](https://github.com/Unleash/unleash/assets/61464406/c7e8e33f-635b-4b3c-8e9a-7f9005ee03d5)
 
 <!--
 **mrdavid28/mrdavid28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
