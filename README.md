@@ -5,8 +5,6 @@
 - 🟣 If you want, you can send me any amount of Solana to the wallet address: 2Q99xeMp7G9sk32QGgZ5YPmDZvnjFbaCE7EknKGtEv7T
 
 
-![Zrzut ekranu z 2024-01-12 14-05-33](https://github.com/Unleash/unleash/assets/61464406/c7e8e33f-635b-4b3c-8e9a-7f9005ee03d5)
-
 ![vovalente_brazilian_winter](https://github.com/zhangchiqing/merkle-patricia-trie/assets/61464406/3c8c67c2-dd05-48de-ada7-530283e382c1)
 
 
