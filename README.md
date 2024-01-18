@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning Elm, Yasm assembler, Javascript.
 - 📫 How to reach me: mail: dawidplotczyk12@gmail.com, linkedin: https://www.linkedin.com/in/dawid-p%C5%82otczyk-39b8a6227/ , twitter: https://twitter.com/dawipd_in_engl
-- 🟣 If you want, you can send me any amount of Solana to the wallet address: 2Q99xeMp7G9sk32QGgZ5YPmDZvnjFbaCE7EknKGtEv7T
 
 
 ![vovalente_brazilian_winter](https://github.com/zhangchiqing/merkle-patricia-trie/assets/61464406/3c8c67c2-dd05-48de-ada7-530283e382c1)
