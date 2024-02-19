@@ -1,4 +1,4 @@
-### Hi there 👋  My name is David, I'm 24 years old, and I live. In Poland, I'm learning different programming languages and getting to know different programming paradigms. In the future, I'd like to work as a programmer. I'm also interested in cryptocurrencies. Whoever you are, feel free to use my code.
+### Hi there 👋  My name is David, I'm 24 years old, and I live. In Poland, I'm learning different programming languages and getting to know different programming paradigms. In the future, I'd like to work as a programmer. I'm also interested in cryptocurrencies. 
 
 - 🌱 I’m currently learning web development.
 - 📫 How to reach me: mail: dawidplotczyk12@gmail.com, linkedin: https://www.linkedin.com/in/dawid-p%C5%82otczyk-39b8a6227/ 
